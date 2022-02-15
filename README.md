@@ -25,7 +25,7 @@ ____
 &emsp;
 ## **Background**
 
-Six Park was founded in 2014. It was by 
+Six Park was founded in 2014 by: 
 - Brian Watson AO - former JP Morgan Australia chairman
 - Pat Garrett (co-Chief Executive Officer) - 25-year career in the financial services industry. Since 2005, Pat has worked at Georgica Associates, a private investment management firm based in Melbourne.
 
@@ -36,22 +36,11 @@ After decades working at the highest levels of Australia’s financial services 
 
 Diversifying your investments across different asset classes has been shown to be one of the most effective ways to reduce risk and improve returns. Hence, their portfolios comprise a mix of up to seven asset classes, each of which has its own risk/reward profile. 
 
-<table><style>
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 25%;
-}
-table th:nth-of-type(3) {
-    width: 25%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style><table>
+The table below is a compiled list of all their preferred ETFs.
 
-| ETF | Examples of Top Holdings | Focus | Reasons |
+&emsp;
+
+| <div style="width:130px">ETF</div>  | Examples of Top Holdings | Focus | Reasons |
 | :---------------: | :---------------:| :---------------: | :---------------: |
 | State Street S&P/ASX 200 Fund (STW) | CSL, Commonwealth Bank, BHP Billiton, Westpac, NAB, ANZ, Woolworths, Wesfarmers, Telstra, Transurban | Australia’s first ETF. Tracks the 200 largest and most liquid publicly listed entities in Australia | Oldest, one of the largest & most heavily traded ETFs which tracks the ASX200 index. The ASX200 is recognised as the primary investable benchmark in Australia. |
 | iShares Core MSCI Australia ESG Leaders ETF (IESG) | CBA, CSL, Wesfarmers, ANZ, Macquarie Group, Transurban, Sonic Healthcare, Telstra | Exposure to ASX-listed companies meeting a variety of sustainability criteria, while maintaining similar overall industry group weights as the S&P/ASX 200 Index. | Strong sustainable characteristics while achieving a risk and return profile comparable to the ASX 200 index; very low cost. |   
@@ -125,9 +114,9 @@ The growth can be attributed to three factors: increasing accessibility, afforda
 ### **New audiences and preferences**
 Record-low interest rates on term deposits is encouraging many more millennials to plough their cash into share market investments for the first time in a bid to grow their wealth. About 46% of Australians – or nine million people – now hold investments other than their primary residence or superannuation, according to the Australian Securities Exchange’s 2020 Australian Investor Study (Miles, 2021).
 
-The millennials demographic – those aged between 25 and 40 – many of whom are looking for an alternative for saving their cash for a first home that is growing further out of reach as the property market booms. The boom of cryptocurrency & NFTs also perpetuates this notion as more youngsters are drawn towards the technology & the potential financial opportunities around it.
+*The millennials demographic* – those aged between 25 and 40 – many of whom are looking for an alternative for saving their cash for a first home that is growing further out of reach as the property market booms. The boom of cryptocurrency & NFTs also perpetuates this notion as more youngsters are drawn towards the technology & the potential financial opportunities around it.
 
-Younger audiences often have different investment priorities than their parents and grandparents. For example, younger generations tend to value responsible investment options more deeply. Many robo-advisors have added environmental, social and corporate governance (ESG) investment options to give these investors more opportunity to invest in alignment with their beliefs. 
+Younger audiences often have different investment priorities than their parents<img align="right" img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSNDlRaDH8Y8Op5_RUHiwtP8wzAkHb1P00A&usqp=CAU" width="300" height="200"> and grandparents. For example, younger generations tend to value responsible investment options more deeply. Many robo-advisors have added environmental, social and corporate governance (ESG) investment options to give these investors more opportunity to invest in alignment with their beliefs. 
 
 Additionally, mobile capabilities are key when appealing to younger generations. Having an automated investment advisor is not nearly as attractive to millennials or Gen Zs if they cannot access their investments via their smartphone. Robo-advisors have also added different account types like custodial accounts to introduce more options and better coverage, no matter the investor’s preferences (Allen, 2021). 
 
